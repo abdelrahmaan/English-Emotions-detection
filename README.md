@@ -8,7 +8,7 @@ I gathered three datasets from Kaggle for modeling.
 
 3- Emotions dataset for NLP.
 
-After that, I found the data is unplanned, so i made a data augmentation for minority labels by `DistalBERT` word embedding.
+After that, I found the data is unblanced, so i made a data augmentation for minority labels by `DistalBERT` word embedding.
 
 Afterward doing text preprocessing like removing emojis, removing links, removing mentions, removing hashtags, removing Punctuations,
 
